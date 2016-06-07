@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<?xml-stylesheet type="text/css" href="https://fonts.googleapis.com/css?family=Raleway"?>
+<!DOCTYPE Cv SYSTEM "Cv.dtd">
+
+<Cv>
+<Personne sexe="masculin">
+	<section>
+		<p>Developpeur web junior</p>
+	</section>
+	<section>
+		<identite>
+			<nom>Nom :SARDI</nom>
+		</identite>
+		<identite>
+			<prenom>Prenom : Hassan</prenom>
+		</identite>
+		<identite>
+			<age>Age : 49 ans</age>
+		</identite>
+		<identite>
+			<date_de_naissance>Né le 14/10/1966</date_de_naissance>
+		</identite>
+	</section>
+	<section>
+		<identite>
+			<adresse>7 Impasse du calvaire,35361 Cintré</adresse>
+		</identite>
+		<identite>
+			<telephone>Tel : 06.20.85.00.19</telephone>
+		</identite>
+		<identite>
+			<mail>Mail : sardihassan093@gmail.com</mail>
+		</identite>
+	</section>
+	<section></section>
+</Personne>
+
+<experience>
+	<section>
+		<p> ===Expérience Professionelle===</p>
+	</section>
+		<poste>
+			<date>Année : 1992-1997</date>
+			<entreprise>==M2II ...........................</entreprise>
+			<lieu>Ville : Paris.....</lieu>
+			<descriptif>maintenance hardware</descriptif>
+		</poste>
+		<poste>
+			<date>Année : 1997-1999</date>
+			<entreprise>==SEPRIM......................</entreprise>
+			<lieu>Ville : Paris.....</lieu>
+			<descriptif>Maintenance informatique sur Site</descriptif>
+		</poste>
+		<poste>
+			<date>Année : 1999_2014</date>
+			<entreprise>==Entreprise SARDI.....</entreprise>
+			<lieu>Ville : Rennes...</lieu>
+			<descriptif>Gerant de societe</descriptif>
+		</poste>
+</experience>
+
+<formation>
+	<section>
+		<p> === Formation===</p>
+	</section>
+		<date>Année : 2019</date>
+		<intitule>Nom : Codage Informatique</intitule>
+		<organisme>Organisme : Face/Simplon</organisme>
+		<lieu>Ville : Rennes</lieu>
+		<niveau>Niveau : Bac+2</niveau>
+</formation>
+
+<competence>
+	<section>
+		<p>=== Compétences===</p>
+	</section>
+	<section>
+		<langage>HTML HTML5/ CSS CSS3</langage>
+		<niveau>Intermédiaire</niveau>
+		<langage>JS</langage>
+		<niveau>Débutant</niveau>
+		<langage>PHP</langage>
+		<niveau>Débutant</niveau>
+	</section>
+</competence>
+
+<divers>
+	<section>
+		<p>===Centre d'intérêts===</p>
+	</section>
+		<langue>langues:Français, Anglais ,Espagnol,Arabe...(lu et ecrit)</langue>
+		<loisirs>Hobby:football,Lecture,Travail associatif</loisirs>
+</divers>
+
+</Cv>

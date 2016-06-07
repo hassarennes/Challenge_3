@@ -1,0 +1,267 @@
+Cv {
+background-color: #ddd6bc;
+	padding-bottom: 40px;
+	font-family: Contenu, Helvetica, sans-serif;
+	padding-top: 20px;
+}
+* {
+font-family: " Helvetica", sans-serif;
+}
+
+
+Personne {
+	position: fixed;
+color:  #19194d;
+	font-size: 25px;
+	margin-left: 3%;
+	display: block;
+	line-height: 40px;
+	width: 25%;
+	font-family: Titre, sans-serif;
+	background-color: #E0E0F8;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+section:nth-child(2) identite { /*Nom + Prenom + date*/
+
+	font-size: 20px;
+	margin-left: 3%;
+	display: block;
+	
+	font-family: Titre, sans-serif;
+}
+
+section:nth-child(3) identite {
+
+display: block;
+margin: auto;
+padding: 5px;
+
+}
+section {
+display: block;
+width: 200px;
+height: 30%;
+}
+section:nth-child(1) {
+width: 75%;
+margin: auto;
+}
+Personne section:nth-child(1) {
+margin-top: 20px;
+ margin-left: 850px;	
+background-color: #F5F5DC;
+border-radius:  30px;
+height: 40%;
+padding-left:25px;
+
+}
+experience section:nth-child(1) {
+color:  #19194d;
+	font-size: 25px;
+	
+	display: block;
+	line-height: 40px;
+	width: 55%;
+	font-family: Titre, sans-serif;
+	background-color: #E0E0F8;
+    border-radius: 10px;
+    margin-top: 200px;
+    margin-left: 600px;	
+	
+}
+formation section:nth-child(1) {
+	color:  #19194d;
+	font-size: 25px;
+	margin-left: 600px;
+	margin-top: 100px;
+	display: block;
+	line-height: 40px;
+	width: 55%;
+	font-family: Titre, sans-serif;
+	background-color: #E0E0F8;
+    border-radius: 10px;
+    
+    }
+competence section:nth-child(1) {
+color:  #19194d;
+	font-size: 25px;
+	margin-left: 600px;
+	margin-top: 100px;
+	display: block;
+	line-height: 60px;
+	width: 55%;
+
+	font-family: Titre, sans-serif;
+	background-color: #E0E0F8;
+    border-radius: 10px;	
+
+}
+divers section:nth-child(1) {
+color:  #19194d;
+	font-size: 25px;
+	margin-left: 600px;
+	margin-top: 100px;
+	display: block;
+	line-height: 40px;
+	width: 55%;
+	font-family: Titre, sans-serif;
+	background-color: #E0E0F8;
+    border-radius: 10px;
+    
+
+}
+experience poste:nth-child(2) {
+font-weight: 600;
+
+display: block;
+margin-left:620px;
+margin-top: -160px;
+}
+
+experience poste:nth-child(3) {
+font-weight: 600;
+
+display: block;
+margin-left:620px;
+margin-top: 20px;
+}
+
+experience poste:nth-child(4) {
+font-weight: 600;
+
+display: block;
+margin-left:620px;
+margin-top: 20px;
+}
+experience date {
+background-color: white;
+font-weight: bold;
+
+}
+
+formation section p:nth-child(1) {
+font-size: 25px;
+
+}
+
+formation date {
+font-weight: 600;
+
+display: block;
+margin-left:620px;
+margin-top: -200px;
+
+}
+intitule {
+font-weight: 600;
+
+display: block;
+margin-left:620px;
+margin-top: 20px;
+}
+organisme {
+font-weight: 600;
+
+display: block;
+margin-left:620px;
+margin-top: 20px;
+}
+
+formation lieu {
+font-weight: 600;
+
+display: block;
+margin-left:620px;
+margin-top: 20px;
+}
+
+formation niveau {
+font-weight: 600;
+
+display: block;
+margin-left:620px;
+margin-top: 20px;
+}
+
+
+
+competence section p:nth-child(1) {
+font-size: 25px;
+display: block;
+
+}
+
+competence section:nth-child(2) {
+margin-left: 620px;
+margin-top: -180px;
+background-color: white;
+width: 30%;
+height: 150px;
+border-radius: 15px;
+}
+
+langage {
+display: block;
+
+font-weight: 600;
+}
+
+langage:nth-child(1) {
+font-weight: 600;
+
+display: block;
+padding: 5% 0 0 20%;
+
+}
+
+langage:nth-child(3) {
+padding: 0 0 0 20%;
+}
+
+langage:nth-child(5) {
+padding: 0 0 0 20%;
+}
+competence niveau:nth-child(2) {
+padding: 0 5% 0 75%;
+
+}
+
+competence niveau:nth-child(4) {
+padding: 0 0 0 75%;
+}
+
+competence niveau:nth-child(6) {
+padding: 0 0 0 75%;
+}
+
+competence niveau {
+color: blue;
+}
+divers {
+font-size: 20px;
+}
+
+divers section p:nth-child(1) {
+font-size: 25px;
+
+}
+
+divers langue {
+ 
+	font-weight: 600;
+
+display: block;
+margin-left:620px;
+margin-top: -150px;
+}
+
+divers loisirs {
+ 
+	font-weight: 600;
+
+display: block;
+margin-left:620px;
+margin-top: 30px;
+}
+ 
